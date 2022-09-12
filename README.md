@@ -7,3 +7,8 @@
 
 > **Note** This project name is a reference to Margaret Hamilton, which developed on-board flight software for NASA's Apollo program
 
+# Usage
+
+Just run the script!
+
+*PS: We advise you to run this script from a Windows PowerShell Terminal. Your addon will generate in the folder from which you run the script*
