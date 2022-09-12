@@ -1,4 +1,4 @@
-##🌟 Release 1.0.0 available Now ! 
+## 🌟 Release 1.0.0 available Now ! 
 > **Warning**
 > Don't forget to watch and star this repository to be notified on future releases
 
